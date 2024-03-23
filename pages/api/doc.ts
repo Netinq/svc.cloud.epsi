@@ -13,7 +13,7 @@ const swaggerHandler = withSwagger({
     apiFolder: 'pages/api',
     definition: {
         info: {
-            title: 'BrowserStack Demo API',
+            title: 'Atelier SVC Cloud Swagger',
             version: '1.0.0',
         },
         openapi: '3.0.0',
